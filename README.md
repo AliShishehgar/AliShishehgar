@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm Ali, a passionate data science student who is 
 I am an online marketing specialist with a computer engineering background who has been passionate about data science for years. Now, I am acquiring the skills needed to become a passionate data scientist!
 
 ## 📫 Let's Connect
-- LinkedIn: [Your LinkedIn profile link](https://www.linkedin.com/in/ali-shishehgar/)
+- LinkedIn: (https://www.linkedin.com/in/ali-shishehgar/)
 
 ## 🤝 Open for Collaboration
 I'm always open to collaborating on exciting projects. If you have an idea or project you'd like to work on together, feel free to reach out! Let's create something amazing. 🌈
